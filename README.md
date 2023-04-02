@@ -13,6 +13,7 @@ If two planes collide, they are destroyed. But if they collide inside the radius
 # FILENAME format:
 
 A  [x-start] [y-start]  [x-end] [y-end]  [velocity]  [spawn]
+
 T  [radius]
 
 Watch entry.rdr
