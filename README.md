@@ -10,12 +10,12 @@ This is one of my first projects, this is why the code architecture is meh.
 
 # USAGE
 
-./my_radar [FILENAME]
+./my_radar FILENAME
 
 # FILENAME format:
 
-A  [x-start] [y-start]  [x-end] [y-end]  [velocity]  [spawn]
+A  x-start y-start  x-end y-end  velocity  spawn-in-seconds
 
-T  [radius]
+T  radius
 
 Watch entry.rdr
